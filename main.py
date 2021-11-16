@@ -17,6 +17,8 @@ search_lbl.grid(row=0, column=0, sticky="w")
 search_ent = tk.Entry(search_frame)
 search_ent.grid(row=0, column=1)
 
+# hi
+
 search_type_lbl = tk.Label(search_frame, text="Search type", font=("Arial", 12, "bold"))
 search_type_lbl.grid(row=1, column=0, sticky="w")
 
